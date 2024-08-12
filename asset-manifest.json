@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mobile_App/static/css/main.d5e325b4.css",
+    "main.js": "/Mobile_App/static/js/main.6ac81f47.js",
+    "static/media/logo.svg": "/Mobile_App/static/media/logo.393df3f4cb4f91b7f8f821dd684dba53.svg",
+    "index.html": "/Mobile_App/index.html",
+    "main.d5e325b4.css.map": "/Mobile_App/static/css/main.d5e325b4.css.map",
+    "main.6ac81f47.js.map": "/Mobile_App/static/js/main.6ac81f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e325b4.css",
+    "static/js/main.6ac81f47.js"
+  ]
+}
